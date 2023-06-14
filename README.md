@@ -1,2 +1,2 @@
 # CypressTesting
-Automation Tests using Cypress
+Automation Tests using Cypress.
